@@ -10,7 +10,7 @@ hr {width:80%; color: yellow; }
 img {width:100%; border-radius:50%}
 @media screen and (max-width:600px) {
     h1 {color:yellow}
-img{border-radius:0;padding:2%; border:10px solid lightblue}
+img{border-radius:0; width:100%; border:5px solid lightblue}
 figcaption {text-align:center}
 
 }
